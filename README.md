@@ -31,7 +31,7 @@ Under the mentorship of Dr. Ronald Klimberg of the Decision and System Sciences 
 **Database for Rita's Ice Shop**  
 Fall 2025
   
-Using Microsoft Access and SQL, I made a database simulating the daily operations of a Rita's Ice shop. The database contains tables for customers, employees, labor hours, orders, and products. The file contains a switchboard that gives the user access to all the tables, reports, forms, views, and queries created using the database. To download and explore the database, follow the link below.
+Using Microsoft Access and SQL, I made a database simulating the daily operations of a Rita's Ice shop. The database contains tables for customers, employees, labor hours, orders, and products. The file contains a switchboard that gives the user access to all the tables, reports, forms, views, and queries created using the database. To download and explore the database, follow the link below and click "View raw".
   
 **Database:** https://github.com/kloser3535/portfolio/blob/main/Database_Rita's_Ice_Shop.accdb  
   
