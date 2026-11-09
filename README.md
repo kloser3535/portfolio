@@ -29,8 +29,7 @@ Under the mentorship of Dr. Ronald Klimberg of the Decision and System Sciences 
 Fall 2025
 Using Microsoft Access and SQL, I made a database simulating the daily operations of a Rita's Ice shop. The database contains tables for customers, employees, labor hours, orders, and products. The file contains a switchboard that gives the user access to all the tables, reports, forms, views, and queries created using the database.
   
-**Database:** 
- 
+**Database:** Database_Rita's_Ice_Shop.accdb
   
 **Using YOLOv8 for Basketball Detection**  
 Fall 2024  
