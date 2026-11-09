@@ -15,7 +15,7 @@ Fall 2026
 For this project, I used the "plotly" package in R to explore a dataset of NFL offensive player statistics from 1999 to 2013. I created interactive scatterplots visualizing the relationship between a player's total yards and fantasy points and a geographic map showing total fantasy points by state based on players' home states. 
 
 **Video:**
-**Dataset:** Link to dataset
+**Dataset:** https://github.com/kloser3535/portfolio/blob/main/NFL%20Offensive%20Player%20stats_1999-2013.csv  
 **Code:** R File 
   
 **Assigning Landing Zones to Balls in Play Using Softball Game Clips**  
