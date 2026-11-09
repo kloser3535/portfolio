@@ -14,7 +14,7 @@ Six Sigma Green Belt (May 2023)
 Fall 2026  
 For this project, I used the "plotly" package in R to explore a dataset of NFL offensive player statistics from 1999 to 2013. I created interactive scatterplots visualizing the relationship between a player's total yards and fantasy points and a geographic map showing total fantasy points by state based on players' home states. 
 
-**Video:** Video
+**Video:**
 **Dataset:** Link to dataset
 **Code:** R File 
   
@@ -24,7 +24,7 @@ Summer 2026
 Under the mentorship of Dr. Ronald Klimberg of the Decision and System Sciences department at Saint Joseph's University, I created a YOLO computer vision model using Python and ChatGPT. The model used softball game clips of balls hit in play as inputs and outputted the balls' landing zones. The landing zones were determined by the bearing angle of the balls and their distances from home plate when they first touched the ground or a defensive player.  
   
 **Video:** https://sju.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94dcba07-d907-44b4-95e4-b49e0100ffc1    
-**Code:** Make Github site with just code from this
+**Code:** https://github.com/kloser3535/Assigning-Landing-Zones-to-Balls-in-Play-Using-Softball-Game-Clips/tree/main
   
 **Database for Rita's Ice Shop**  
 Fall 2025
