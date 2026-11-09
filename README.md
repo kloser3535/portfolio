@@ -20,16 +20,18 @@ For this project, I used the "plotly" package in R to explore a dataset of NFL o
   
 **Assigning Landing Zones to Balls in Play Using Softball Game Clips**  
 Summer 2026  
-Under the mentorship of Dr. Ronald Klimberg of the Decision and System Sciences department at Saint Joseph's University, I created a YOLO computer vision model using Python and ChatGPT. The model used softball game clips of balls hit in play as inputs and outputted the balls' landing zones. The landing zones were determined by the bearing angle of the balls and their distances from home plate when they first touched the ground or a defensive player.
   
-**Video:** Video  
+Under the mentorship of Dr. Ronald Klimberg of the Decision and System Sciences department at Saint Joseph's University, I created a YOLO computer vision model using Python and ChatGPT. The model used softball game clips of balls hit in play as inputs and outputted the balls' landing zones. The landing zones were determined by the bearing angle of the balls and their distances from home plate when they first touched the ground or a defensive player.  
+  
+**Video:** https://sju.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94dcba07-d907-44b4-95e4-b49e0100ffc1    
 **Code:** Make Github site with just code from this
   
 **Database for Rita's Ice Shop**  
 Fall 2025
+  
 Using Microsoft Access and SQL, I made a database simulating the daily operations of a Rita's Ice shop. The database contains tables for customers, employees, labor hours, orders, and products. The file contains a switchboard that gives the user access to all the tables, reports, forms, views, and queries created using the database.
   
-**Database:** Database_Rita's_Ice_Shop.accdb
+**Database:** https://github.com/kloser3535/portfolio/blob/main/Database_Rita's_Ice_Shop.accdb  
   
 **Using YOLOv8 for Basketball Detection**  
 Fall 2024  
